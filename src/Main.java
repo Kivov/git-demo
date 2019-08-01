@@ -11,5 +11,7 @@ public class Main {
 
         System.out.println("M_4");
         System.out.println("M_5-B2");
+
+        System.out.println("B22");
     }
 }
