@@ -6,5 +6,7 @@ public class Main {
 
         System.out.println("M_1");
         System.out.println("M_2");
+
+        System.out.println("M_3");
     }
 }
