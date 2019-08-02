@@ -15,6 +15,6 @@ public class Main {
 
         System.out.println("M6");
 
-        System.out.println("M7");
+        System.out.println("M7-Local");
     }
 }
