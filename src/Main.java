@@ -13,5 +13,11 @@ public class Main {
         System.out.println("M_5");
 
         System.out.println("B1");
+        System.out.println("M_5-Master");
+
+
+        System.out.println("M6");
+
+        System.out.println("M7");
     }
 }
